@@ -37,3 +37,4 @@ def remove(word, list):
             print(list)
     return contador
     return -1
+    
